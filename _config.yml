@@ -1,6 +1,6 @@
 name: Sweet Sense
 favicon: null
-layout_spectrum: 0.33218183903954923
+layout_spectrum: 0.85596
 typography_spectrum: 0.7969896793365479
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.34125718427821994
-  lightness: 0.8388580763712525
-  saturation: 0.43644576449878514
-  rhythmicContrast: 0.15371780539862812
+    - '#ffffff'
+    - '#915b35'
+    - '#b28962'
+    - '#c5b6a4'
+    - '#eee5d5'
+  brandStrength: 0.6875
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose: []
