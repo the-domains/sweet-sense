@@ -2,28 +2,14 @@
     <channel>
         <title><![CDATA[Sweet Sense]]></title>
         <description><![CDATA[Sweet Sense]]></description>
-        <link>https://thegrid.ai/sweet-sense/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 20:05:16 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/sweet-sense/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[For the cake]]></title>
-            <description><![CDATA[<article><h1>For the cake</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2193152745edf92e0e8820580472c8f3f005c300.jpg"></article>]]></description>
-            <link>https://thegrid.ai/sweet-sense/c971620b-5fa8-442c-9cd6-0112815c1aa2/index.html</link>
-            <guid isPermaLink="false">c971620b-5fa8-442c-9cd6-0112815c1aa2</guid>
-            <pubDate>Fri, 05 Feb 2016 20:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[For the cake]]></title>
-            <description><![CDATA[<article><h1>For the cake</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5df2fa0e3309bb90c2eb0a1b86c31d7291bf2d55.jpg"></article>]]></description>
-            <link>https://thegrid.ai/sweet-sense/2f1f3b2f-0fae-45ea-b526-fae077611195/index.html</link>
-            <guid isPermaLink="false">2f1f3b2f-0fae-45ea-b526-fae077611195</guid>
-            <pubDate>Fri, 05 Feb 2016 20:04:55 GMT</pubDate>
-        </item>
+        <lastBuildDate>Fri, 05 Feb 2016 20:05:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[225g baking spread225g self-raising flour1 level tsp article" data-tooltip-width="350" data-tooltip-hide-delay="200" data-tooltip-flyout="true" aria-describedby="gf-tooltip-0"baking powder100g golden caster sugar100g brown sugar4 large eggfinely grated zest of 2 article" data-tooltip-width="350" data-tooltip-hide-delay="200" data-tooltip-flyout="true" aria-describedby="gf-tooltip-1"oranges]]></title>
             <description><![CDATA[<h1>225g baking spread225g self-raising flour1 level tsp article" data-tooltip-width="350" data-tooltip-hide-delay="200" data-tooltip-flyout="true" aria-describedby="gf-tooltip-0"baking powder100g golden caster sugar100g brown sugar4 large eggfinely grated zest of 2 article" data-tooltip-width="350" data-tooltip-hide-delay="200" data-tooltip-flyout="true" aria-describedby="gf-tooltip-1"oranges</h1>]]></description>
-            <link>https://thegrid.ai/sweet-sense/19ded89d-32ed-4c98-a6be-c38610e4c522/index.html</link>
+            <link>undefined19ded89d-32ed-4c98-a6be-c38610e4c522/index.html</link>
             <guid isPermaLink="false">19ded89d-32ed-4c98-a6be-c38610e4c522</guid>
             <pubDate>Fri, 05 Feb 2016 20:04:55 GMT</pubDate>
         </item>
